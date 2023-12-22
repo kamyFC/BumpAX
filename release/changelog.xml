@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <channel>
+  <item>
+   <enclosure url="https://nyc3-digitaloceanspaces-com.s3.amazonaws.com/0-1/Crativity.zip" xmlns:sparkle="sparkle" sparkle:version="0.1" length="64793585" type="application/octet-stream" sparkle:edSignature="hXr6PdBXOzqOHloUmjDez7QRZ2GHw+Pn3/vsIncCjYhFrpFvzvMrfyYR/XdgT6mDCjRFGOcqcVPt4XK0NhJ8Dg=="></enclosure>
+   <pubDate>Fri, 22 Dec 2023 05:37:14 +0000</pubDate>
+   <description><![CDATA[<p>This is the first release</p>
+]]></description>
+  </item>
+ </channel>
+</rss>
