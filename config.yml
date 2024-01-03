@@ -1,5 +1,5 @@
 app_name: Crativity 
-app_filename: Crativity.zip # Should match exactly the .zip file found in ./release/
+app_filename: CrativityBuild.zip # Should match exactly the .zip file found in ./release/
 s3_bucket_name: cflo-dl # Must be unique
 
 # More variables need to be added to your environment. See the readme
