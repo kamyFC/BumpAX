@@ -2,8 +2,8 @@
 <rss version="2" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <channel>
   <item>
-   <enclosure url="https://cflo-dl.s3.amazonaws.com/0-2/Crativity.zip" xmlns:sparkle="sparkle" sparkle:version="0.2" length="64793585" type="application/octet-stream" sparkle:edSignature="hXr6PdBXOzqOHloUmjDez7QRZ2GHw+Pn3/vsIncCjYhFrpFvzvMrfyYR/XdgT6mDCjRFGOcqcVPt4XK0NhJ8Dg=="></enclosure>
-   <pubDate>Wed, 03 Jan 2024 06:06:32 +0000</pubDate>
+   <enclosure url="https://cflo-dl.s3.amazonaws.com/0-2/CrativityBuild.zip" xmlns:sparkle="sparkle" sparkle:version="0.2" length="64083736" type="application/octet-stream" sparkle:edSignature="y2bnv6EKareVk5f233+Dwv2C9zE0KM4kVMNc3J8Wef2S8ZKRWEhz4UmtLseC7u0wQyHPIk+TrMzx6DzemaxZBw=="></enclosure>
+   <pubDate>Wed, 03 Jan 2024 06:23:02 +0000</pubDate>
    <description><![CDATA[<p>Trying with AWS</p>
 ]]></description>
   </item>
