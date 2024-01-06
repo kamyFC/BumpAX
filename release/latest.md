@@ -1,5 +1,5 @@
 ---
-version: "0.2"
+version: "0.3"
 ---
 
-Trying with AWS
+Not including Sparkle files to see if BUMP generates the SPARKLE Files
