@@ -3,7 +3,7 @@
  <channel>
   <item>
    <enclosure url="https://cflo-dl.s3.amazonaws.com/0-3/Crativity.zip" xmlns:sparkle="sparkle" sparkle:version="0.3" length="64838647" type="application/octet-stream" sparkle:edSignature="AtIdBqANz6/C3RL2xQ3eii14NnN0J2MBYo0a035P17HneDhjNxOuh7CYDVQLgH0eUODk7Om59MclUDC/45oiCQ=="></enclosure>
-   <pubDate>Sat, 06 Jan 2024 10:05:51 +0000</pubDate>
+   <pubDate>Sat, 06 Jan 2024 10:06:41 +0000</pubDate>
    <description><![CDATA[<p>Not including Sparkle files to see if BUMP generates the SPARKLE Files</p>
 ]]></description>
   </item>
